@@ -35,7 +35,7 @@ git remote -v
 git pull upstream main
 ```
 
-**7.** By using this, code in your main branch will also get updated
+**7.** By using this, code in your main branch will also get updated(Upadating forked repository).
 ```
 git push
 ```
