@@ -35,34 +35,39 @@ git remote -v
 git pull upstream main
 ```
 
-**7.** Create a new branch.
+**7.** By using this, code in your main branch will also get updated
+```
+git push
+```
+
+**8.** Create a new branch.
 
 ```
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.
+**9.** Perfom your desired changes to the code base.
 
-**9.** Track your changes:heavy_check_mark: .
+**10.** Track your changes:heavy_check_mark: .
 
 ```
 git add . 
 ```
 
-**10.** Commit your changes .
+**11.** Commit your changes .
 
 ```
 git commit -m "Relevant message"
 ```
 
-**11.** Push the committed changes in your feature branch to your remote repo.
+**12.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`.
+**13.** To create a pull request, click on `compare and pull requests`.
 
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+**14.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-**14.** Click on `Create Pull Request`.
+**15.** Click on `Create Pull Request`.
