@@ -71,3 +71,6 @@ git push -u origin <your_branch_name>
 **14.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
 **15.** Click on `Create Pull Request`.
+
+![mdvdthkyou](https://user-images.githubusercontent.com/60292723/116201684-65645680-a757-11eb-8d3f-be09b0a91c1f.gif)
+
